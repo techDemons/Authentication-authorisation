@@ -1,1 +1,3 @@
-# Authentication-authorisation
+# Authentication-authorisation		
+
+This repository contains the backend implementation for a secure Authentication and Authorization system using Node.js, Express.js, and MongoDB. It handles essential features like user signup, login, and token-based authentication using JWT. The backend includes proper validation, password hashing with bcrypt, and secure role-based access control to protect routes and data. MongoDB is used as the primary database, with robust connection handling and environment-based configuration. This codebase is modular, easy to extend, and built with scalability and security in mind — ideal for integrating user auth into any full-stack application.
